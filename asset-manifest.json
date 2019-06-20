@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/food-project/static/css/main.c1558107.chunk.css",
+    "main.js": "/food-project/static/js/main.fde79788.chunk.js",
+    "main.js.map": "/food-project/static/js/main.fde79788.chunk.js.map",
+    "runtime~main.js": "/food-project/static/js/runtime~main.5fda05b1.js",
+    "runtime~main.js.map": "/food-project/static/js/runtime~main.5fda05b1.js.map",
+    "static/js/2.98e9ec0c.chunk.js": "/food-project/static/js/2.98e9ec0c.chunk.js",
+    "static/js/2.98e9ec0c.chunk.js.map": "/food-project/static/js/2.98e9ec0c.chunk.js.map",
+    "index.html": "/food-project/index.html",
+    "precache-manifest.496c1e681b9a35d31db03fd4605d408c.js": "/food-project/precache-manifest.496c1e681b9a35d31db03fd4605d408c.js",
+    "service-worker.js": "/food-project/service-worker.js",
+    "static/css/main.c1558107.chunk.css.map": "/food-project/static/css/main.c1558107.chunk.css.map",
+    "static/media/cherry.png": "/food-project/static/media/cherry.09ee0ea5.png",
+    "static/media/copyright.png": "/food-project/static/media/copyright.b163f5a4.png",
+    "static/media/grapes.png": "/food-project/static/media/grapes.d0727eaf.png",
+    "static/media/homepage.jpg": "/food-project/static/media/homepage.d3def9fc.jpg",
+    "static/media/instagram.png": "/food-project/static/media/instagram.4a8c2347.png",
+    "static/media/logo.png": "/food-project/static/media/logo.937af0f8.png",
+    "static/media/lotus-position.png": "/food-project/static/media/lotus-position.f8993d0f.png",
+    "static/media/menu-button.png": "/food-project/static/media/menu-button.93895e05.png",
+    "static/media/myphoto.jpg": "/food-project/static/media/myphoto.f317770f.jpg",
+    "static/media/orange.png": "/food-project/static/media/orange.1e1d3efb.png",
+    "static/media/scroll.png": "/food-project/static/media/scroll.4c2e6b35.png",
+    "static/media/search.png": "/food-project/static/media/search.d51940db.png",
+    "static/media/twitter.png": "/food-project/static/media/twitter.0251d8ee.png",
+    "static/media/watermelon.png": "/food-project/static/media/watermelon.237df5eb.png"
+  }
+}
