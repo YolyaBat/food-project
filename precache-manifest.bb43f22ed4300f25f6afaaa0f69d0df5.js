@@ -1,23 +1,31 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "5f393f8fa7eb003ac3b3ac6d32706b77",
+    "revision": "ebdd008139d802781f78a098204e1766",
     "url": "/food-project/index.html"
   },
   {
-    "revision": "9e30bc1e3bce31a0d8e1",
-    "url": "/food-project/static/css/main.c1558107.chunk.css"
+    "revision": "24be6588d24c3e350fa7",
+    "url": "/food-project/static/css/main.d1acb780.chunk.css"
   },
   {
-    "revision": "869d170c512e9c3f44eb",
-    "url": "/food-project/static/js/2.fa6e3cb3.chunk.js"
+    "revision": "35b4bc77c685b040a46f",
+    "url": "/food-project/static/js/2.a9328eaa.chunk.js"
   },
   {
-    "revision": "9e30bc1e3bce31a0d8e1",
-    "url": "/food-project/static/js/main.e51b404f.chunk.js"
+    "revision": "24be6588d24c3e350fa7",
+    "url": "/food-project/static/js/main.75eccbc6.chunk.js"
   },
   {
     "revision": "c3999605755585583bb4",
     "url": "/food-project/static/js/runtime~main.5fda05b1.js"
+  },
+  {
+    "revision": "ccf9549930118d627549b309bb5851cc",
+    "url": "/food-project/static/media/another-food-pic.ccf95499.jpg"
+  },
+  {
+    "revision": "d08e8f17cb5bd02239925d43c8c0bea9",
+    "url": "/food-project/static/media/article-pic.d08e8f17.jpg"
   },
   {
     "revision": "09ee0ea51b18c04c1d706f0fb3487f15",
