@@ -1,19 +1,19 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "ebdd008139d802781f78a098204e1766",
+    "revision": "e741ea6d1fda9698b5cd82ff5baf4c4d",
     "url": "/food-project/index.html"
   },
   {
-    "revision": "24be6588d24c3e350fa7",
-    "url": "/food-project/static/css/main.d1acb780.chunk.css"
+    "revision": "d136c5164862b47f67d5",
+    "url": "/food-project/static/css/main.39b784ef.chunk.css"
   },
   {
-    "revision": "35b4bc77c685b040a46f",
-    "url": "/food-project/static/js/2.a9328eaa.chunk.js"
+    "revision": "154c1f9d95d5dc101f68",
+    "url": "/food-project/static/js/2.bb9ad742.chunk.js"
   },
   {
-    "revision": "24be6588d24c3e350fa7",
-    "url": "/food-project/static/js/main.75eccbc6.chunk.js"
+    "revision": "d136c5164862b47f67d5",
+    "url": "/food-project/static/js/main.546fd178.chunk.js"
   },
   {
     "revision": "c3999605755585583bb4",
@@ -40,10 +40,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/food-project/static/media/grapes.d0727eaf.png"
   },
   {
-    "revision": "d3def9fc87a74a73dea357c783fbe583",
-    "url": "/food-project/static/media/homepage.d3def9fc.jpg"
-  },
-  {
     "revision": "4a8c23476a7c20c5bee2a752a6f96e9e",
     "url": "/food-project/static/media/instagram.4a8c2347.png"
   },
@@ -54,6 +50,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "f8993d0ff93ca5c185adb4fe4aaa9a51",
     "url": "/food-project/static/media/lotus-position.f8993d0f.png"
+  },
+  {
+    "revision": "8d6ffc89a9d3bb763108f267b07093c0",
+    "url": "/food-project/static/media/mainpagePic.8d6ffc89.jpg"
   },
   {
     "revision": "93895e051b3ef6ed77a0969a80b54cd4",
