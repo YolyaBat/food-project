@@ -1,19 +1,19 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "31b351263e602faa921f01c6a7be6119",
+    "revision": "81e875898090cd506f68d47721a00bdc",
     "url": "/food-project/index.html"
   },
   {
-    "revision": "f7f16f4fb5eda9a5827a",
-    "url": "/food-project/static/css/main.25c629ef.chunk.css"
+    "revision": "1f1eec8f63e2882fae31",
+    "url": "/food-project/static/css/main.a69338b3.chunk.css"
   },
   {
-    "revision": "759b0e59fde888dd051d",
-    "url": "/food-project/static/js/2.55599cd5.chunk.js"
+    "revision": "c2dc6650e79457d8dac9",
+    "url": "/food-project/static/js/2.6816d69e.chunk.js"
   },
   {
-    "revision": "f7f16f4fb5eda9a5827a",
-    "url": "/food-project/static/js/main.71a49edf.chunk.js"
+    "revision": "1f1eec8f63e2882fae31",
+    "url": "/food-project/static/js/main.62fa5de6.chunk.js"
   },
   {
     "revision": "c3999605755585583bb4",
@@ -50,10 +50,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "f8993d0ff93ca5c185adb4fe4aaa9a51",
     "url": "/food-project/static/media/lotus-position.f8993d0f.png"
-  },
-  {
-    "revision": "8d6ffc89a9d3bb763108f267b07093c0",
-    "url": "/food-project/static/media/mainpagePic.8d6ffc89.jpg"
   },
   {
     "revision": "93895e051b3ef6ed77a0969a80b54cd4",
