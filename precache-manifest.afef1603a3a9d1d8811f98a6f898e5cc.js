@@ -1,19 +1,19 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "23dc3e9d36bed8b9003aa5bc50aecf99",
+    "revision": "79f341ed33a609152b135f5ea594d90b",
     "url": "/food-project/index.html"
   },
   {
-    "revision": "f9859c8461bafb3f2ce3",
+    "revision": "586c0e47091e84a39c25",
     "url": "/food-project/static/css/main.eb6a927a.chunk.css"
   },
   {
-    "revision": "c2dc6650e79457d8dac9",
-    "url": "/food-project/static/js/2.6816d69e.chunk.js"
+    "revision": "50d32b8ab362564fff91",
+    "url": "/food-project/static/js/2.24ed1133.chunk.js"
   },
   {
-    "revision": "f9859c8461bafb3f2ce3",
-    "url": "/food-project/static/js/main.4b6bdf8e.chunk.js"
+    "revision": "586c0e47091e84a39c25",
+    "url": "/food-project/static/js/main.288c6a5f.chunk.js"
   },
   {
     "revision": "c3999605755585583bb4",
